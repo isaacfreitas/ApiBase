@@ -1,5 +1,5 @@
 # ApiBase
-🚀 Api básica com CRUD de uma pagina de Produtos utilizando NODE e MONGODB.
+🚀 Api básica com CRUD de uma pagina de Produtos utilizando NODE e MONGODB utilizando Docker.
 
 
 ****************************************
